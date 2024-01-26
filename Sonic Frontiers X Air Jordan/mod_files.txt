@@ -10,4 +10,7 @@ add GoldBlack/raw/character/supersonic2.pac
 add RoyalBlue/raw/character/supersonic2.pac
 add UniversityBlue/raw/character/supersonic2.pac
 add VarsityRed/raw/character/supersonic2.pac
+add RoyalBlue/raw/character/sonic.pac
+add BlackRed/raw/character/sonic.pac
+add Selection.json
 add mod.ini
