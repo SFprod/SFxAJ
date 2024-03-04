@@ -1,0 +1,166 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Shoe Style",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Style",
+		  "Description": [
+			"Choose the shoe's color"
+		  ],
+          "Type": "buttnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "VarsityRed"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "buttnum": [
+      {
+        "DisplayName": "Jordan 1 'Chicago'",
+        "Value": "VarsityRed",
+        "Description":[
+          "Jordan 1 Retro Chicago High (Varsity Red)"
+        ]
+      },
+      {
+        "DisplayName": "Jordan 1 'UNC'",
+        "Value": "UniversityBlue",
+        "Description":[
+          "Jordan 1 Retro UNC High OG (University Blue)"
+        ]
+      },
+	   {
+        "DisplayName": "Jordan 1 'Black-White'",
+        "Value": "BlackWhite",
+        "Description":[
+          "Jordan 1 Retro High OG (Black-White)"
+        ]
+      },
+	   {
+        "DisplayName": "Jordan 1 'Bred'",
+        "Value": "BlackRed",
+        "Description":[
+          "Jordan 1 Retro High (Bred)"
+        ]
+      },
+	   {
+        "DisplayName": "Jordan 1 'Royal'",
+        "Value": "RoyalBlue",
+        "Description":[
+          "Jordan 1 Retro High (Royal)"
+        ]
+      },
+	   {
+        "DisplayName": "Jordan 1 'Gold & Black'",
+        "Value": "GoldBlack",
+        "Description":[
+          "Jordan 1 High (Gold & Black [Custom])"
+	   ]
+      },
+         {
+        "DisplayName": "Jordan 1 'Mocha'",
+	   "Value": "Mocha",
+        "Description":[
+          "Jordan 1 Retro High (Mocha)"
+	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 1 'Pollen'",
+	   "Value": "Pollen",
+	   "Description":[
+	    "Jordan 1 Retro High (Pollen)"
+	   ]
+      }, 
+		{
+	   "DisplayName": "Jordan 1 'Shadow'",
+	   "Value": "Shadow",
+        "Description":[	
+	   "Jordan 1 Retro High (Shadow 2.0)"	
+	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 1 'Next Chapter'",
+	   "Value": "Spider",
+	   "Description":[
+        "Jordan 1 Retro High (Next Chapter [Spider-Man: ASTV])"
+	   ]
+       },
+		{
+	   "DisplayName": "Jordan 4 'Red Thunder'",
+	   "Value": "RedThunder",
+	   "Description":[
+	   "Jordan 4 Retro (Red Thunder)"
+	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 4 'Lightning'",
+	   "Value": "Lightning",
+        "Description":[
+	   "Jordan 4 Retro (Lightning)"
+	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 4 'Pure Money'",
+	   "Value": "PureMoney",
+        "Description":[
+	   "Jordan 4 Retro (Pure Money)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 4 'Military Black'",
+	   "Value": "MilBlack",
+        "Description":[
+	   "Jordan 4 Retro (Military Black)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 4 'Military Blue'",
+	   "Value": "MilBlue",
+        "Description":[
+	   "Jordan 4 Retro (Military Blue)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 4 'Bred'",
+	   "Value": "Bred4",
+        "Description":[
+	   "Jordan 4 Retro (Bred)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 11 'Bred'",
+	   "Value": "Bred11",
+        "Description":[
+	   "Jordan 11 Retro (Bred)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 11 'Win Like '96'",
+	   "Value": "WinLike96",
+        "Description":[
+	   "Jordan 11 Retro (Win Like '96)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 11 'Pantone'",
+	   "Value": "Pantone",
+        "Description":[
+	   "Jordan 11 Retro (Pantone)"
+   	   ]
+	 },
+		{
+	   "DisplayName": "Jordan 11 'Gratitude'",
+	   "Value": "Gratitude",
+        "Description":[
+	   "Jordan 11 Retro (Gratitude)"
+        ]
+      },
+    ]
+  },
+  "IniFile": "mod.ini"
+}
